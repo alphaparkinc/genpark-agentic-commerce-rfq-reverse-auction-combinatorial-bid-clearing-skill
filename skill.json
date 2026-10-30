@@ -1,0 +1,16 @@
+{
+  "name": "genpark-agentic-commerce-rfq-reverse-auction-combinatorial-bid-clearing-skill",
+  "version": "1.0.0",
+  "title": "B2B Reverse Auction Combinatorial Bid Clearing Skill",
+  "category": "Agentic Commerce (Procurement & Strategic Sourcing)",
+  "description": "Solves Winner Determination Problem (WDP) for multi-item multi-vendor B2B reverse auctions, optimizing bundle bids, shipping consolidation, and supplier capacity limits.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "clear_combinatorial_reverse_auction_bids"
+  ],
+  "dependencies": []
+}
